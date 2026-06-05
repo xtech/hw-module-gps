@@ -9,5 +9,4 @@ Component,Comment,Designator,Footprint,LCSC Part #
 8,2.54mm 1x10 socket,U45,Dummy,C7509514
 9,2.54mm 1x6 socket,U42,Dummy,C7509518
 10,2.54mm 1x8 socket,"U43,U44",Dummy,C7509515
-11,2.54mm 2x6 socket,U46,Dummy,C718230
-12,AMS1117-3.3,U12,SOT-223-3_TabPin2,C6186
+11,AMS1117-3.3,U12,SOT-223-3_TabPin2,C6186
