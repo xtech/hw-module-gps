@@ -1889,7 +1889,7 @@
 	)
 	(text "Dummy symbols to generate \npositions and BOM entries\nfor assembly"
 		(exclude_from_sim no)
-		(at 342.646 71.374 0)
+		(at 343.154 63.246 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2393,7 +2393,7 @@
 			(uuid "5a12e5b7-3615-435c-a9a9-f871e37783d1")
 		)
 		(instances
-			(project "hw-openmower-universal"
+			(project "hw-module-gps"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
 					(reference "C37")
 					(unit 1)
@@ -2460,7 +2460,7 @@
 			(uuid "d0f6b988-f20c-42d2-962d-ab8b18bc3f16")
 		)
 		(instances
-			(project "hw-openmower-universal"
+			(project "hw-module-gps"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
 					(reference "#PWR0189")
 					(unit 1)
@@ -3067,7 +3067,7 @@
 			(uuid "01458cfa-6b5e-4c88-a073-f3d461410147")
 		)
 		(instances
-			(project "hw-openmower-universal"
+			(project "hw-module-gps"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
 					(reference "XA1")
 					(unit 1)
@@ -3572,7 +3572,7 @@
 			)
 		)
 		(instances
-			(project "hw-openmower-universal"
+			(project "hw-module-gps"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
 					(reference "U45")
 					(unit 1)
@@ -3637,7 +3637,7 @@
 			(uuid "2007384f-a463-41ae-9ea2-2fdc902511df")
 		)
 		(instances
-			(project "hw-openmower-universal"
+			(project "hw-module-gps"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
 					(reference "#PWR0140")
 					(unit 1)
@@ -3807,7 +3807,7 @@
 			(uuid "b7cb537e-d1a8-4aba-9041-ab98319e0206")
 		)
 		(instances
-			(project "hw-openmower-universal"
+			(project "hw-module-gps"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
 					(reference "C120")
 					(unit 1)
@@ -3874,7 +3874,7 @@
 			(uuid "fd08eda7-500e-4d46-81dc-34a17d51fcc7")
 		)
 		(instances
-			(project "hw-openmower-universal"
+			(project "hw-module-gps"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
 					(reference "#PWR0175")
 					(unit 1)
@@ -4390,7 +4390,7 @@
 			(uuid "de711fbf-ccb6-4418-8148-3817cb025145")
 		)
 		(instances
-			(project "hw-openmower-universal"
+			(project "hw-module-gps"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
 					(reference "H10")
 					(unit 1)
@@ -4899,7 +4899,7 @@
 			(uuid "6aa16f6a-3f67-4fb6-a82a-1b44d72b5dff")
 		)
 		(instances
-			(project "hw-openmower-universal"
+			(project "hw-module-gps"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
 					(reference "R59")
 					(unit 1)
@@ -5415,7 +5415,7 @@
 			(uuid "feac6cee-afbd-4e81-be02-a6cd9a463f30")
 		)
 		(instances
-			(project "hw-openmower-universal"
+			(project "hw-module-gps"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
 					(reference "H6")
 					(unit 1)
@@ -5926,7 +5926,7 @@
 			(uuid "3021cc09-c0ec-4c7a-83df-328e3027547a")
 		)
 		(instances
-			(project "hw-openmower-universal"
+			(project "hw-module-gps"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
 					(reference "R44")
 					(unit 1)
@@ -6431,7 +6431,7 @@
 			)
 		)
 		(instances
-			(project "hw-openmower-universal"
+			(project "hw-module-gps"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
 					(reference "U43")
 					(unit 1)
@@ -6601,7 +6601,7 @@
 			(uuid "1a19d8d9-94fd-4c3a-9af5-08ab5cb022cc")
 		)
 		(instances
-			(project "hw-openmower-universal"
+			(project "hw-module-gps"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
 					(reference "U12")
 					(unit 1)
@@ -6668,7 +6668,7 @@
 			(uuid "77557c8c-65f8-4403-bac4-9f1099680d47")
 		)
 		(instances
-			(project "hw-openmower-universal"
+			(project "hw-module-gps"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
 					(reference "#PWR0171")
 					(unit 1)
@@ -7184,7 +7184,7 @@
 			(uuid "4edc217f-7855-44a2-892a-bfd6cd8da0e6")
 		)
 		(instances
-			(project "hw-openmower-universal"
+			(project "hw-module-gps"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
 					(reference "H5")
 					(unit 1)
@@ -7317,7 +7317,7 @@
 			(uuid "9f8c8b8e-237e-4eff-9f9a-40a463d55116")
 		)
 		(instances
-			(project "hw-openmower-universal"
+			(project "hw-module-gps"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
 					(reference "J29")
 					(unit 1)
@@ -7828,7 +7828,7 @@
 			(uuid "029253f2-1190-4037-87b0-31609a5f37a3")
 		)
 		(instances
-			(project "hw-openmower-universal"
+			(project "hw-module-gps"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
 					(reference "D25")
 					(unit 1)
@@ -7894,7 +7894,7 @@
 			(uuid "f587c342-a635-415c-95eb-075a73ff3d07")
 		)
 		(instances
-			(project "hw-openmower-universal"
+			(project "hw-module-gps"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
 					(reference "#PWR042")
 					(unit 1)
@@ -7961,7 +7961,7 @@
 			(uuid "dff2d94b-41fb-4a0f-952f-c719c6497f91")
 		)
 		(instances
-			(project "hw-openmower-universal"
+			(project "hw-module-gps"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
 					(reference "#PWR0174")
 					(unit 1)
@@ -8131,7 +8131,7 @@
 			(uuid "4b14520b-d77f-4086-897d-ba7b93e3bf11")
 		)
 		(instances
-			(project "hw-openmower-universal"
+			(project "hw-module-gps"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
 					(reference "C119")
 					(unit 1)
@@ -8301,7 +8301,7 @@
 			(uuid "912be572-65a6-45d8-988f-ccf39f574f96")
 		)
 		(instances
-			(project "hw-openmower-universal"
+			(project "hw-module-gps"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
 					(reference "C63")
 					(unit 1)
@@ -8367,7 +8367,7 @@
 			(uuid "d1011633-2567-4364-9eff-c667f40a9999")
 		)
 		(instances
-			(project "hw-openmower-universal"
+			(project "hw-module-gps"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
 					(reference "#PWR025")
 					(unit 1)
@@ -8434,7 +8434,7 @@
 			(uuid "a12aed30-9ae6-4d39-adbf-1f4be3b589f7")
 		)
 		(instances
-			(project "hw-openmower-universal"
+			(project "hw-module-gps"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
 					(reference "#PWR0139")
 					(unit 1)
@@ -8939,7 +8939,7 @@
 			)
 		)
 		(instances
-			(project "hw-openmower-universal"
+			(project "hw-module-gps"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
 					(reference "U44")
 					(unit 1)
@@ -9006,514 +9006,9 @@
 			(uuid "2e433217-34ef-462c-bb98-341e736c5086")
 		)
 		(instances
-			(project "hw-openmower-universal"
+			(project "hw-module-gps"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
 					(reference "#PWR0190")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "xtech:Dummy")
-		(at 342.9 66.04 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "fdf27e14-fb58-4f26-be1d-04ae6bf6e587")
-		(property "Reference" "U46"
-			(at 361.95 61.5949 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "2.54mm 2x6 socket"
-			(at 361.95 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "xtech:Dummy"
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "JLC" "C718230"
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "APPLICATION" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CASE" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONFIGURATION" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CONNECTOR" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "CURRENT_RATING" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Centerline_Pitch" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Comment" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "DESIGNATOR" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "EU_RoHS_Compliance" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FINISH" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_PATH" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "FOOTPRINT_REFERENCE" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "GENDER" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_DATE" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LATEST_REVISION_NOTE" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_PATH" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "LIBRARY_REF" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "MANUFACTURER_LINK" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Number_of_Positions" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ORIENTATION" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PACKAGE" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_DESCRIPTION" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PART_REV" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PITCH" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "POSITIONS" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHED" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "PUBLISHER" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Product_Type" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "RESISTANCE" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "ROHS_COMPLIANT" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SERIES" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SIGNAL_INTEGRITY" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "SPICE_MODEL" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TECHNOLOGY" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "TYPE" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_AC" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "VOLTAGE_RATING_DC" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field4" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field5" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field6" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Field7" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Part Description" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" ""
-			(at 342.9 66.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(instances
-			(project "hw-openmower-universal"
-				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
-					(reference "U46")
 					(unit 1)
 				)
 			)
@@ -10016,7 +9511,7 @@
 			)
 		)
 		(instances
-			(project "hw-openmower-universal"
+			(project "hw-module-gps"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
 					(reference "U42")
 					(unit 1)
@@ -10532,7 +10027,7 @@
 			(uuid "ff67e5c0-160d-4ab6-b8c8-a7f245fc127e")
 		)
 		(instances
-			(project "hw-openmower-universal"
+			(project "hw-module-gps"
 				(path "/e12e8a63-1d1b-4736-9aba-a87a258b2b11"
 					(reference "H15")
 					(unit 1)
